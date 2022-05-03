@@ -1,6 +1,6 @@
 import os
 
-#Üçgen şekli için oluşturulan class
+#Ücgen şekli için oluşturulan class
 class Ucgen:
     def __init__(self,kenarlar,aci,aci1,aci2):
         self.kenarlar = kenarlar
